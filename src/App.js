@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
-import Admin from './Admin/Admin';
+import Admin from '../src/Dashboard/Admin/Admin';
 import Navbar from './components/Navbar/Navbar';
 import AuthProvider from './contexts/AuthProvider';
 import DeliveryProvider from './contexts/DeliveryProvider';

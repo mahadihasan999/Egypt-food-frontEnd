@@ -4,7 +4,7 @@ const useFetch = () => {
     const [foods, setFoods] = useState([])
 
     useEffect(() => {
-        fetch('http://localhost:5000/foods')
+        fetch('https://aqueous-sea-70326.herokuapp.com/foods')
             .then(res => res.json())
             .then(data => setFoods(data))
     }, [foods])
