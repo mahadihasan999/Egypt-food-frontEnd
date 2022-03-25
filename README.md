@@ -1,15 +1,10 @@
-# Hatchways
-
-<img src="public/logo512.png" width="240" height="200" />
-<br/><br/><br/>
+# Egypt-Food
 
 # Application Demo URL
-
+https://egypt-foods.netlify.app/
 <br/><br/><br/>
 
 ## Installation
----
-
 
 1. Install all npm packages
  
