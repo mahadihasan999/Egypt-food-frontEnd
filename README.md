@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # Egypt-Food
+=======
+# Egypt Foods
+
+
+>>>>>>> 8257d75a65058eccbd9708080bbafb422b96b1cc
 
 # Application Demo URL
 https://egypt-foods.netlify.app/
